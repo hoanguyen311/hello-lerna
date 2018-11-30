@@ -1,6 +1,6 @@
 {
   "name": "@hoa.nguyen-thai/grocery",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hoa.nguyen-thai/apple": "^0.0.2",
-    "@hoa.nguyen-thai/banana": "^0.0.2",
+    "@hoa.nguyen-thai/apple": "^0.0.3",
+    "@hoa.nguyen-thai/banana": "^0.0.3",
     "sillyname": "0.1.0"
   },
   "gitHead": "62e5f4afb7c9471747d8434321f5888c1967b606"
