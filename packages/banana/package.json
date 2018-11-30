@@ -1,5 +1,5 @@
 {
-  "name": "banana",
+  "name": "@hoa.nguyen-thai/banana",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "sillyname": "0.0.3"
   },
-  "gitHead": "86562aacad9c97ec0609118665608b151d7ca669"
+  "gitHead": "62e5f4afb7c9471747d8434321f5888c1967b606"
 }
