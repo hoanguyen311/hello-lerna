@@ -14,5 +14,8 @@
     "@hoa.nguyen-thai/banana": "^0.0.3",
     "sillyname": "0.1.0"
   },
-  "gitHead": "62e5f4afb7c9471747d8434321f5888c1967b606"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "1593a81749b8b589739b9b914cd86e6ab662e38e"
 }
